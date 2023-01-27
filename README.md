@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante avanzado de la carrera de Ingeniería en computación,  apasionado por la tecnología y el mundo start up. Me considero una  persona muy curiosa, con gran entusiasmo para avanzar como profesional y destacar por el compromiso y responsabilidad. Además aprender mucho de mis comprañeros y aportar mis habilidades y experiencias al equipo.</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **React JS** y me intereza mucho la Inteligencia artificial asi como participar el proyectos de alto impacto.
+- 🌱 Actualmente estoy aprendiendo **React JS**, trabajando mucho con **Django** y me intereza mucho la Inteligencia artificial asi como participar el proyectos de alto impacto.
 
 - 📄 2022 Lalo, aplicación móvil para ofrecer y contratar servicios profecionales, desarrolllada en **Flutter** y **Firebase** obteniendo 2do lugar en feria de aplicaciones móviles de la universidad. Mis funciones fueron **Diseñador**, **Desarrollador** y **Presentador.**
 
