@@ -1,5 +1,5 @@
 <h1 align="center">print("Hello, I am William!")</h1>
-<h3 align="center">I started programming in my teens, I have worked on web, desktop and mobile projects as a freelance collaborating with talented people to use technology to solve real problems. I admire and value innovation, I am very curious, I can literally "explode with ideas!", I really want to learn new things and participate in interesting projects that allow me to improve my skills in the software world and contribute as much as possible to my team. </h3>
+<h3 align="center">I am a software developer and passionate about technology, innovation and continuous learning. I have worked on web, desktop and mobile projects as a freelance collaborating with talented people to use technology to solve real problems. I admire and value innovation, I am very curious, I can literally "explode with ideas!", I really want to learn new things and participate in interesting projects that allow me to improve my skills in the software world and contribute as much as possible to my team. </h3>
 <h2 align="center">My motto is: "Use technology to solve problems and live one bug at a time"</h2>
 
 
