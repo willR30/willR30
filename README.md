@@ -1,24 +1,13 @@
-<h1 align="center">print("Hola, soy William!")</h1>
-<h3 align="center">Estudiante avanzado de la carrera de Ingeniería en computación,  apasionado por la tecnología y el mundo start up. Me considero una  persona muy curiosa, con gran entusiasmo para avanzar como profesional y destacar por el compromiso y responsabilidad. Además aprender mucho de mis comprañeros y aportar mis habilidades y experiencias al equipo.</h3>
+<h1 align="center">print("Hello, I am William!")</h1>
+<h3 align="center">I started programming in my teens, I have worked on web, desktop and mobile projects as a freelance collaborating with talented people to use technology to solve real problems. I admire and value innovation, I am very curious, I can literally "explode with ideas!", I really want to learn new things and participate in interesting projects that allow me to improve my skills in the software world and contribute as much as possible to my team. </h3>
+<h2 align="center">My motto is: "Use technology to solve problems and live one bug at a time"</h2>
 
 
-- 🌱 Actualmente estoy aprendiendo **React JS**, trabajando mucho con **Django** y me intereza mucho la Inteligencia artificial asi como participar el proyectos de alto impacto.
-
-- 📄 2022 Lalo, aplicación móvil para ofrecer y contratar servicios profecionales, desarrolllada en **Flutter** y **Firebase** obteniendo 2do lugar en feria de aplicaciones móviles de la universidad. Mis funciones fueron **Diseñador**, **Desarrollador** y **Presentador.**
-
-- 📄 2020-2021, Junto a unos amigos empezamos una empresa en la que desarrollamos software como producto y también para terceros. uno de nuestros proyectos es un software que se enfoca en, gestionar y organizar horarios escolares. Aunque está principalmente optimizado para escuela, puede adaptarse para cualquier tipo de horario semanal. <a href="https://www.instagram.com/p/CU5O8IEICHL/" target="blank"> Conoce más aqui</a>
-
-- 📄 2019, Como parte de una pasantía en una escuela de secundaría técnica, desarrollé un sistema de calificaciones en **C#** y **SQLServer**, aunque luego fué migrado a **Java** y **MySQL**
-
-- 📄 He participado en ferias de mi universidad, **hackathones** y ferias de emprendedores.
+<h3><a href="https://willr30.github.io/Portafolio/">See my portfolio here</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/william-c%C3%A1ceres-196b89263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tonystark" height="30" width="40" /></a>
-
-<a href="https://github.com/willR30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tonystarky" height="30" width="40" /></a>
-
-📫 **wr.caceresballesteros@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
