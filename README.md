@@ -7,7 +7,7 @@
 - 💼 Working as a Web developer
 - 🌱 Learning Spring boot, React js and Fast API
 
-<h2><a href="https://willr30.github.io/Portafolio/">See my portfolio</a></h2>
+<h2><a href="https://willtech.site/">See my portfolio</a></h2>
 
 ## 🚀 My skills
 
